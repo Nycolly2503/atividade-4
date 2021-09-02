@@ -1,5 +1,5 @@
 # atividade-4
-< !DOCTYPE html>
+<DOCTYPE>
 <html>
 <head> 
 <title> repositorio para realização da atividade. </title>
